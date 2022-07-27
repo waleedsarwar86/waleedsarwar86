@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**waleedsarwar86/waleedsarwar86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Android developer with over 7 years of experience in building high-quality and meaningful products mostly in startups.
 
-Here are some ideas to get you started:
+I have experience building, releasing, and maintaining complex Mobile applications. Strives for elegance and simplicity in code while focusing on reusability and best practices. Expert in building scalable architecture in Mobile applications using MVP, MVVM and Clean Architecture. Meticulous, with keen attention to detail, with strong analytical and communication skills I learn every day because I think that learning is a continuous process. I feel that making mistakes is not a crime but not learning from mistakes is
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 💻
+
+- Languages: Kotlin; Java
+- Interests: Mobile App Development
+
+### Contact 📮
+
+- Website: waleedsarwar.com
+- Twitter: @waleedsarwar86
+- LinkedIn: linkedin.com/in/waleedsarwar86
